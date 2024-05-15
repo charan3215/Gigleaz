@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "charan",
+      "phno": "9573995845",
+      "pass": "#Charan3215",
+      "id": 1
+    },
+    {
+      "name": "mallesh",
+      "phno": "9949106440",
+      "pass": "#Mallesh420",
+      "id": 2
+    },
+    {
+      "name": "siva",
+      "phno": "9876541023",
+      "pass": "#Siva9876",
+      "id": 3
+    }
+  ]
+}
